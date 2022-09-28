@@ -88,3 +88,4 @@ def find_data(query):
         print(row)
     log.write_log(query, "GET")
     return row
+

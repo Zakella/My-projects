@@ -8,3 +8,4 @@ def write_data_in_db(data):
 def read_data_from_db(data):
     db_management.find_data(data)
 
+
